@@ -47,4 +47,4 @@ To use AutoWP Beta, contact me on Telegram: @Anon040
 
 ## About
 
-AutoWP is developed by [Obaskly].
+AutoWP is developed by Obaskly.

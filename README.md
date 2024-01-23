@@ -7,7 +7,7 @@ AutoWP Beta is an application designed to automate the generation and posting of
 ### Article Generation
 
 - **Keyword Generation**: Users can generate a list of unique keywords on various subjects using OpenAI's GPT models. You can also put your desired keywords within `keywords.txt`.
-- **SEO-Friendly Articles**: The application is capable of generating SEO-friendly articles based on the provided keywords. Each article is tailored to be at least 700 words long, with a critical analysis and varied vocabulary.
+- **SEO-Friendly Articles**: The application is capable of generating SEO-friendly articles based on the provided keywords.
 - **Customizable Article Count**: Users can specify the number of articles to be generated for each keyword.
 
 ### WordPress Integration

@@ -30,7 +30,7 @@ AutoWP Beta is an application designed to automate the generation and posting of
 - **Model Selection**: Users can choose between different OpenAI GPT models for content generation.
 - **Article Count Customization**: The application allows setting the number of articles to generate per keyword and the total number of articles to generate in a session.
 
-## System Requirements
+## Requirements
 
 - OpenAI API Key
 - WordPress website with REST API access

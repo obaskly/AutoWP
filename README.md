@@ -45,6 +45,18 @@ To use AutoWP Beta, contact me on Telegram: @Anon040
 
 - Follow the on-screen instructions to input your OpenAI API key, WordPress credentials, and other settings.
 
+## Free Version
+
+The Free version include the keywords generation only. If you want the Full version, contact us.
+
+Get the Free version from here: 
+
+- rar password: 167
+
+## AutoWP in action
+
+
+
 ## About
 
 AutoWP is developed by Obaskly.

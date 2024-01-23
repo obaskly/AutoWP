@@ -12,7 +12,7 @@ AutoWP Beta is an application designed to automate the generation and posting of
 
 ### WordPress Integration
 
-- **Automated Posting**: Generated articles are automatically posted to the user's WordPress website.
+- **Automated Posting**: Generated articles are automatically posted to the user's WordPress website. Posted articles links are saved to `posted_articles.txt` so that you can keep track.
 - **WordPress Credentials Management**: The application allows users to input their WordPress website URL, username, and application password for seamless integration.
 
 ### Scheduling

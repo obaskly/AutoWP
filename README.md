@@ -49,7 +49,7 @@ To use AutoWP Beta, contact me on Telegram: @Anon040
 
 The Free version include the keywords generation only. Default model is set to `gpt-3.5-turbo`. If you want the Full version, contact me on Telegram: @Anon040
 
-Get the Free version from here: 
+Get the Free version from here: https://www.mediafire.com/file/jm2zjtqxj9qk4at/AutoWP_Free.rar/file
 
 - rar password: 167
 

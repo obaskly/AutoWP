@@ -47,7 +47,7 @@ To use AutoWP Beta, contact me on Telegram: @Anon040
 
 ## Free Version
 
-The Free version include the keywords generation only. If you want the Full version, contact us.
+The Free version include the keywords generation only. Default model is set to `gpt-3.5-turbo`. If you want the Full version, contact me on Telegram: @Anon040
 
 Get the Free version from here: 
 

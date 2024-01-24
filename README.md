@@ -15,6 +15,12 @@ AutoWP Beta is an application designed to automate the generation and posting of
 - **Automated Posting**: Generated articles are automatically posted to the user's WordPress website. Posted articles links are saved to `posted_articles.txt` so that you can keep track.
 - **WordPress Credentials Management**: The application allows users to input their WordPress website URL, username, and application password for seamless integration.
 
+### Image Integration
+
+- **Multiple Sources**: Images can be generated using DALL-E 3, or scrapped from Pixabay, Unsplash, Pexels.
+- **Multiple Images**: User can generate up to 20 image per article.
+- **Different Images**: Each time an article is generated, a new set of images will be generated/scrapped to avoid posting the same images. 
+
 ### Scheduling
 
 - **Article Generation Scheduling**: Users can schedule the generation and posting of articles at specified intervals, ranging from every 15 minutes to weekly.
@@ -49,13 +55,13 @@ To use AutoWP Beta, contact me on Telegram: @Anon040
 
 The Free version include the keywords generation only. Default model is set to `gpt-3.5-turbo`. If you want the Full version, contact me on Telegram: @Anon040
 
-Get the Free version from here: https://www.mediafire.com/file/jm2zjtqxj9qk4at/AutoWP_Free.rar/file
+Get the Free version from here: https://www.mediafire.com/file/yanxd8jmuq6f17g/AutoWP+Free.rar/file
 
 - rar password: 167
 
 ## AutoWP in action
 
-https://youtu.be/ZXOUZcLMp4s
+https://youtu.be/zyPUQQRHVuM
 
 ## About
 

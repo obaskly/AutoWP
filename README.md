@@ -1,5 +1,7 @@
 # AutoWP Beta
 
+![2024-01-25_005345](https://github.com/obaskly/AutoWP/assets/11092871/edabe541-c5b8-4691-a56f-6f58fec67738)
+
 AutoWP Beta is an application designed to automate the generation and posting of SEO-friendly articles to a WordPress website. The application utilizes OpenAI's GPT models for content generation and provides a user-friendly interface for managing article creation.
 
 ## Features

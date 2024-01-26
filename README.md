@@ -89,11 +89,11 @@ Get the Free version from here: https://www.mediafire.com/file/yanxd8jmuq6f17g/A
 
 ## AutoWP in action
 
-Current version:
+### Current version:
 
 https://www.youtube.com/watch?v=ExCj5r_0xcI
 
-Previous versions:
+### Previous versions:
 
 First version of the script: https://www.youtube.com/watch?v=ZXOUZcLMp4s
 

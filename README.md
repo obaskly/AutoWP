@@ -10,8 +10,8 @@ AutoWP Beta is an application designed to automate the generation and posting of
 ### Article Generation
 
 - **Keyword Generation**: Users can generate a list of unique keywords on various subjects using OpenAI's GPT models. You can also put your desired keywords within `keywords.txt`.
-- **SEO-Friendly Articles**: The application is capable of generating SEO-friendly articles based on the provided keywords.
 - **Customizable Article Count**: Users can specify the number of articles to be generated for each keyword.
+- **SEO-Friendly Articles**: The application is capable of generating SEO-friendly articles based on the provided keywords.
 
 ![3](https://github.com/obaskly/AutoWP/assets/11092871/b3197edf-c433-4087-95fa-474d062f4764)
 
@@ -56,10 +56,10 @@ AutoWP Beta is an application designed to automate the generation and posting of
 - **Dark and Light Mode**: The application comes with a toggle feature for switching between dark and light themes.
 - **Error Handling**: The GUI includes error messaging to inform users of any issues during the article generation or posting process.
 
-### Customization
+### Openai integration
 
 - **Model Selection**: Users can choose between different OpenAI GPT models for content generation.
-- **Article Count Customization**: The application allows setting the number of articles to generate per keyword and the total number of articles to generate in a session.
+- **Tone Selection**: Users can choose between different tones to use for content generation.
 
 ![2](https://github.com/obaskly/AutoWP/assets/11092871/54a1c979-f5d1-49db-bbf3-57ca1d7e0a87)
 

@@ -56,6 +56,10 @@ AutoWP Beta is an application designed to automate the generation and posting of
 - **Dark and Light Mode**: The application comes with a toggle feature for switching between dark and light themes.
 - **Error Handling**: The GUI includes error messaging to inform users of any issues during the article generation or posting process.
 
+![9](https://github.com/obaskly/AutoWP/assets/11092871/e89f5f44-4816-44bc-8679-5cf288359083)
+![8](https://github.com/obaskly/AutoWP/assets/11092871/56bf5085-e58a-4a8b-ac03-5728f50381b8)
+
+
 ### Openai integration
 
 - **Model Selection**: Users can choose between different OpenAI GPT models for content generation.

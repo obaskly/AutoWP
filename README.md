@@ -15,6 +15,12 @@ AutoWP Beta is an application designed to automate the generation and posting of
 
 ![3](https://github.com/obaskly/AutoWP/assets/11092871/b3197edf-c433-4087-95fa-474d062f4764)
 
+### Openai integration
+
+- **Model Selection**: Users can choose between different OpenAI GPT models for content generation.
+- **Tone Selection**: Users can choose between different tones to use for content generation.
+
+![2](https://github.com/obaskly/AutoWP/assets/11092871/54a1c979-f5d1-49db-bbf3-57ca1d7e0a87)
 
 ### WordPress Integration
 
@@ -58,14 +64,6 @@ AutoWP Beta is an application designed to automate the generation and posting of
 
 ![9](https://github.com/obaskly/AutoWP/assets/11092871/e89f5f44-4816-44bc-8679-5cf288359083)
 ![8](https://github.com/obaskly/AutoWP/assets/11092871/56bf5085-e58a-4a8b-ac03-5728f50381b8)
-
-
-### Openai integration
-
-- **Model Selection**: Users can choose between different OpenAI GPT models for content generation.
-- **Tone Selection**: Users can choose between different tones to use for content generation.
-
-![2](https://github.com/obaskly/AutoWP/assets/11092871/54a1c979-f5d1-49db-bbf3-57ca1d7e0a87)
 
 ## Requirements
 

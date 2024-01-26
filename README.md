@@ -1,8 +1,9 @@
 # AutoWP Beta
 
-![2024-01-25_005345](https://github.com/obaskly/AutoWP/assets/11092871/edabe541-c5b8-4691-a56f-6f58fec67738)
+AutoWP Beta is an application designed to automate the generation and posting of SEO-friendly articles to a WordPress website, as well as Social media. The application utilizes OpenAI's GPT models for content generation and provides a user-friendly interface for managing article creation.
 
-AutoWP Beta is an application designed to automate the generation and posting of SEO-friendly articles to a WordPress website. The application utilizes OpenAI's GPT models for content generation and provides a user-friendly interface for managing article creation.
+![7](https://github.com/obaskly/AutoWP/assets/11092871/1534ca36-88fb-4b82-8caa-fcbb201924ee)
+
 
 ## Features
 
@@ -12,21 +13,43 @@ AutoWP Beta is an application designed to automate the generation and posting of
 - **SEO-Friendly Articles**: The application is capable of generating SEO-friendly articles based on the provided keywords.
 - **Customizable Article Count**: Users can specify the number of articles to be generated for each keyword.
 
+![3](https://github.com/obaskly/AutoWP/assets/11092871/b3197edf-c433-4087-95fa-474d062f4764)
+
+
 ### WordPress Integration
 
 - **Automated Posting**: Generated articles are automatically posted to the user's WordPress website. Posted articles links are saved to `posted_articles.txt` so that you can keep track.
 - **WordPress Credentials Management**: The application allows users to input their WordPress website URL, username, and application password for seamless integration.
 
+![1](https://github.com/obaskly/AutoWP/assets/11092871/bd0c5212-d28f-4bc1-8f62-665679f5fffb)
+
+
 ### Image Integration
 
 - **Multiple Sources**: Images can be generated using DALL-E 3, or scrapped from Pixabay, Unsplash, Pexels.
 - **Multiple Images**: User can generate up to 20 image per article.
-- **Different Images**: Each time an article is generated, a new set of images will be generated/scrapped to avoid posting the same images. 
+- **Different Images**: Each time an article is generated, a new set of images will be generated/scrapped to avoid posting the same images.
+
+  ### Watermark Integration
+
+  - You can add a watermark to the bottom right of your images.
+
+  ![4](https://github.com/obaskly/AutoWP/assets/11092871/49edd92d-66e4-43af-b94d-c31a72b96a13)
+
+### Social media Integration
+
+- **Facebook**: Every article generated will be summarized and posted to a facebook page of your choice. (You must have admin rights)
+- **Hashtags**: Hashtags will be generated each time according to your article and added to the facebook post.
+
+![5](https://github.com/obaskly/AutoWP/assets/11092871/7a90086d-f7f0-4cb1-802c-f15eaf89c7bb)
+
 
 ### Scheduling
 
 - **Article Generation Scheduling**: Users can schedule the generation and posting of articles at specified intervals, ranging from every 15 minutes to weekly.
 - **Start/Stop Functionality**: The application provides the ability to start and stop the article generation process as needed.
+
+![6](https://github.com/obaskly/AutoWP/assets/11092871/1b443a49-a8a4-46cb-a203-00d46be101fb)
 
 ### User Interface
 
@@ -38,10 +61,13 @@ AutoWP Beta is an application designed to automate the generation and posting of
 - **Model Selection**: Users can choose between different OpenAI GPT models for content generation.
 - **Article Count Customization**: The application allows setting the number of articles to generate per keyword and the total number of articles to generate in a session.
 
+![2](https://github.com/obaskly/AutoWP/assets/11092871/54a1c979-f5d1-49db-bbf3-57ca1d7e0a87)
+
 ## Requirements
 
 - OpenAI API Key
 - WordPress website with REST API access
+- Facebook page access token (in case used)
 
 ## Installation
 
@@ -63,7 +89,12 @@ Get the Free version from here: https://www.mediafire.com/file/yanxd8jmuq6f17g/A
 
 ## AutoWP in action
 
-https://youtu.be/zyPUQQRHVuM
+Current version:
+https://www.youtube.com/watch?v=ExCj5r_0xcI
+
+Previous versions:
+First version of the script: https://www.youtube.com/watch?v=ZXOUZcLMp4s
+Second version of the script: https://www.youtube.com/watch?v=zyPUQQRHVuM
 
 ## About
 

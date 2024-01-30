@@ -44,7 +44,8 @@ AutoWP Beta is an application designed to automate the generation and posting of
 
 ### Social media Integration
 
-- **Facebook**: Every article generated will be summarized and posted to a facebook page of your choice. (You must have admin rights)
+- **Facebook**: Every article generated will be summarized and posted to a facebook page of your choice. (You must be an admin in that page)
+- **Twitter**: Every article generated will be summarized and posted to a Twitter account of your choice.
 - **Hashtags**: Hashtags will be generated each time according to your article and added to the facebook post.
 
 ![5](https://github.com/obaskly/AutoWP/assets/11092871/7a90086d-f7f0-4cb1-802c-f15eaf89c7bb)

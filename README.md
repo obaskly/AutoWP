@@ -48,8 +48,8 @@ AutoWP Beta is an application designed to automate the generation and posting of
 - **Twitter**: Every article generated will be summarized and posted to a Twitter account of your choice.
 - **Hashtags**: Hashtags will be generated each time according to your article and added to the facebook post.
 
-![5](https://github.com/obaskly/AutoWP/assets/11092871/7a90086d-f7f0-4cb1-802c-f15eaf89c7bb)
-
+![11](https://github.com/obaskly/AutoWP/assets/11092871/e5e9a862-456c-4562-aa00-35b570c46a7c)
+![12](https://github.com/obaskly/AutoWP/assets/11092871/5b79a414-346e-4e59-887d-2cb6940e029e)
 
 ### Scheduling
 

@@ -45,6 +45,7 @@ AutoWP is an application designed to automate the generation and posting of SEO-
 ### Social media Integration
 
 - **Facebook**: Every article generated will be summarized and posted to a facebook page of your choice. (You must be an admin in that page)
+- **Instagram**: Every article generated will be summarized and posted to an Instagram account of your choice, along with a picture from the keyword image folder.
 - **Twitter**: Every article generated will be summarized and posted to a Twitter account of your choice.
 - **Hashtags**: Hashtags will be generated each time according to your article and added to the facebook post.
 

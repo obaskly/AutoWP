@@ -72,10 +72,12 @@ AutoWP is an application designed to automate the generation and posting of SEO-
 - OpenAI API Key
 - WordPress website with REST API access
 - Facebook page access token (in case used)
+- Twitter account with an app ready to use (in case used)
+- Instagram account (in case used)
 
 ## Installation
 
-To use AutoWP Beta, contact me on Telegram: @Anon040
+To use AutoWP, contact me on Telegram: @Anon040
 
 ## Usage
 

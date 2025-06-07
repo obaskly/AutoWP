@@ -10,64 +10,50 @@ AutoWP is a cutting-edge platform that revolutionizes how content creators and w
 
 ## 🚀 Key Features
 
-<details open>
-<summary><h3>🤖 Content Creation</h3></summary>
-- **AI-Powered Article Generation**: Create high-quality, SEO-optimized content with the click of a button
-- **Keyword Management**: Organize and prioritize keywords for targeted content creation
-- **Customizable Generation Settings**: Control article length, tone, style, and formatting
-- **Article Dashboard**: Track, edit, and manage all your generated content in one place
-</details>
+### 🤖 Content Creation
+- AI-Powered Article Generation: Create high-quality, SEO-optimized content with the click of a button
+- Keyword Management: Organize and prioritize keywords for targeted content creation
+- Customizable Generation Settings: Control article length, tone, style, and formatting
+- Article Dashboard: Track, edit, and manage all your generated content in one place
 
-<details open>
-<summary><h3>🌐 WordPress Integration</h3></summary>
-- **One-Click Publishing**: Automatically post generated articles to your WordPress website
-- **Custom Formatting**: Maintain your site's look and feel with template-based formatting
-- **Featured Images**: Automatically select and attach relevant images to your posts
-- **Categories & Tags**: Smart categorization based on content analysis
-</details>
+### 🌐 WordPress Integration
+- One-Click Publishing: Automatically post generated articles to your WordPress website
+- Custom Formatting: Maintain your site's look and feel with template-based formatting
+- Featured Images: Automatically select and attach relevant images to your posts
+- Categories & Tags: Smart categorization based on content analysis
 
-<details open>
-<summary><h3>🖼️ Image Management</h3></summary>
-- **Multiple Image Sources**: Source images from DALL-E, Pixabay, Unsplash, or Pexels
-- **Image Customization**: Add watermarks and adjust images to match your branding
-- **Bulk Generation**: Create multiple unique images for each article
-- **Image Library**: Browse and reuse previously generated images
-</details>
+### 🖼️ Image Management
+- Multiple Image Sources: Source images from DALL-E, Pixabay, Unsplash, or Pexels
+- Image Customization: Add watermarks and adjust images to match your branding
+- Bulk Generation: Create multiple unique images for each article
+- Image Library: Browse and reuse previously generated images
 
-<details open>
-<summary><h3>📱 Social Media Automation</h3></summary>
-- **Multi-Platform Posting**: Share your content across Facebook, Instagram, and Twitter
-- **Smart Summarization**: Automatically create engaging social media captions
-- **Hashtag Generation**: Add relevant, trending hashtags to maximize reach
-- **Post Scheduling**: Time your posts for maximum engagement
-</details>
+### 📱 Social Media Automation
+- Multi-Platform Posting: Share your content across Facebook, Instagram, and Twitter
+- Smart Summarization: Automatically create engaging social media captions
+- Hashtag Generation: Add relevant, trending hashtags to maximize reach
+- Post Scheduling: Time your posts for maximum engagement
 
-<details open>
-<summary><h3>⏱️ Scheduling & Automation</h3></summary>
-- **Flexible Scheduling**: Set content creation and publishing on your preferred schedule
-- **Content Calendar**: View and manage your upcoming content pipeline
-- **Smart Queuing**: Prioritize content based on your keywords and business goals
-- **Notification System**: Stay informed about generation progress and publishing status
-</details>
+### ⏱️ Scheduling & Automation
+- Flexible Scheduling: Set content creation and publishing on your preferred schedule
+- Content Calendar: View and manage your upcoming content pipeline
+- Smart Queuing: Prioritize content based on your keywords and business goals
+- Notification System: Stay informed about generation progress and publishing status
 
-<details open>
-<summary><h3>🎨 User Experience</h3></summary>
-- **Modern Dashboard**: Monitor all your content metrics in one place
-- **Dark/Light Theme**: Choose your preferred visual mode
-- **Responsive Design**: Access from any device - desktop, tablet, or mobile
-- **User-Friendly Interface**: Intuitive navigation and workflow
-</details>
+### 🎨 User Experience
+- Modern Dashboard: Monitor all your content metrics in one place
+- Dark/Light Theme: Choose your preferred visual mode
+- Responsive Design: Access from any device - desktop, tablet, or mobile
+- User-Friendly Interface: Intuitive navigation and workflow
 
 ---
 
 ## 🚀 Getting Started
 
-```bash
-# Quick start in 3 simple steps:
-1️⃣ Create your account at autowp.com
-2️⃣ Connect your WordPress site and social accounts 
-3️⃣ Start generating content with a single click
-```
+### Quick start in 3 simple steps:
+1. Create your account at autowp.com
+2. Connect your WordPress site and social accounts 
+3. Start generating content with a single click
 
 > Choose from our range of plans to match your content needs.
 
@@ -75,23 +61,17 @@ AutoWP is a cutting-edge platform that revolutionizes how content creators and w
 
 ## 💎 Advanced Features
 
-<details open>
-<summary><h3>🏢 Enterprise Solutions</h3></summary>
-- **Dedicated Support**: Priority assistance and consultation for business users
-- **Custom Integrations**: Connect with your existing tools and workflows
-- **Team Collaboration**: Multi-user access with role-based permissions
-- **Enhanced Security**: Extra protection for your content and account
+### 🏢 Enterprise Solutions
+- Dedicated Support: Priority assistance and consultation for business users
+- Custom Integrations: Connect with your existing tools and workflows
+- Team Collaboration: Multi-user access with role-based permissions
+- Enhanced Security: Extra protection for your content and account
 
-**Enhanced Security**: Extra protection for your content and account
-</details>
-
-<details open>
-<summary><h3>📊 Analytics Dashboard</h3></summary>
-- **Content Performance**: Track views, engagement, and conversion metrics
-- **Keyword Analysis**: Identify trending topics and optimization opportunities
-- **Publishing Insights**: Determine the best times and platforms for your content
-- **ROI Reporting**: Measure the effectiveness of your content strategy
-</details>
+### 📊 Analytics Dashboard
+- Content Performance: Track views, engagement, and conversion metrics
+- Keyword Analysis: Identify trending topics and optimization opportunities
+- Publishing Insights: Determine the best times and platforms for your content
+- ROI Reporting: Measure the effectiveness of your content strategy
 
 ---
 

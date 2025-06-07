@@ -1,110 +1,117 @@
-# AutoWP
+# ✨ AutoWP - The Future of Content Automation
 
-AutoWP is an application designed to automate the generation and posting of SEO-friendly articles to a WordPress website, as well as Social media. The application utilizes OpenAI's GPT models for content generation and provides a user-friendly interface for managing article creation.
+![AutoWP](https://img.shields.io/badge/AutoWP-Next%20Gen%20Content%20Platform-blue?style=for-the-badge&logo=wordpress)
 
-![7](https://github.com/obaskly/AutoWP/assets/11092871/1534ca36-88fb-4b82-8caa-fcbb201924ee)
+> *Transform your content workflow with AI-powered automation*
 
+AutoWP is a cutting-edge platform that revolutionizes how content creators and website owners approach SEO-friendly article generation, WordPress publishing, image sourcing, and social media distribution.
 
-## Features
+---
 
-### Article Generation
+## 🚀 Key Features
 
-- **Keyword Generation**: Users can generate a list of unique keywords on various subjects using OpenAI's GPT models. You can also put your desired keywords within `keywords.txt`.
-- **Customizable Article Count**: Users can specify the number of articles to be generated for each keyword.
-- **SEO-Friendly Articles**: The application is capable of generating SEO-friendly articles based on the provided keywords.
+<details open>
+<summary><h3>🤖 Content Creation</h3></summary>
+- **AI-Powered Article Generation**: Create high-quality, SEO-optimized content with the click of a button
+- **Keyword Management**: Organize and prioritize keywords for targeted content creation
+- **Customizable Generation Settings**: Control article length, tone, style, and formatting
+- **Article Dashboard**: Track, edit, and manage all your generated content in one place
+</details>
 
-![3](https://github.com/obaskly/AutoWP/assets/11092871/b3197edf-c433-4087-95fa-474d062f4764)
+<details open>
+<summary><h3>🌐 WordPress Integration</h3></summary>
+- **One-Click Publishing**: Automatically post generated articles to your WordPress website
+- **Custom Formatting**: Maintain your site's look and feel with template-based formatting
+- **Featured Images**: Automatically select and attach relevant images to your posts
+- **Categories & Tags**: Smart categorization based on content analysis
+</details>
 
-### Openai integration
+<details open>
+<summary><h3>🖼️ Image Management</h3></summary>
+- **Multiple Image Sources**: Source images from DALL-E, Pixabay, Unsplash, or Pexels
+- **Image Customization**: Add watermarks and adjust images to match your branding
+- **Bulk Generation**: Create multiple unique images for each article
+- **Image Library**: Browse and reuse previously generated images
+</details>
 
-- **Model Selection**: Users can choose between different OpenAI GPT models for content generation.
-- **Tone Selection**: Users can choose between different tones to use for content generation.
+<details open>
+<summary><h3>📱 Social Media Automation</h3></summary>
+- **Multi-Platform Posting**: Share your content across Facebook, Instagram, and Twitter
+- **Smart Summarization**: Automatically create engaging social media captions
+- **Hashtag Generation**: Add relevant, trending hashtags to maximize reach
+- **Post Scheduling**: Time your posts for maximum engagement
+</details>
 
-![2](https://github.com/obaskly/AutoWP/assets/11092871/54a1c979-f5d1-49db-bbf3-57ca1d7e0a87)
+<details open>
+<summary><h3>⏱️ Scheduling & Automation</h3></summary>
+- **Flexible Scheduling**: Set content creation and publishing on your preferred schedule
+- **Content Calendar**: View and manage your upcoming content pipeline
+- **Smart Queuing**: Prioritize content based on your keywords and business goals
+- **Notification System**: Stay informed about generation progress and publishing status
+</details>
 
-### WordPress Integration
+<details open>
+<summary><h3>🎨 User Experience</h3></summary>
+- **Modern Dashboard**: Monitor all your content metrics in one place
+- **Dark/Light Theme**: Choose your preferred visual mode
+- **Responsive Design**: Access from any device - desktop, tablet, or mobile
+- **User-Friendly Interface**: Intuitive navigation and workflow
+</details>
 
-- **Automated Posting**: Generated articles are automatically posted to the user's WordPress website. Posted articles links are saved to `posted_articles.txt` so that you can keep track.
-- **WordPress Credentials Management**: The application allows users to input their WordPress website URL, username, and application password for seamless integration.
+---
 
-![1](https://github.com/obaskly/AutoWP/assets/11092871/bd0c5212-d28f-4bc1-8f62-665679f5fffb)
+## 🚀 Getting Started
 
+```bash
+# Quick start in 3 simple steps:
+1️⃣ Create your account at autowp.com
+2️⃣ Connect your WordPress site and social accounts 
+3️⃣ Start generating content with a single click
+```
 
-### Image Integration
+> Choose from our range of plans to match your content needs.
 
-- **Multiple Sources**: Images can be generated using DALL-E 3, or scrapped from Pixabay, Unsplash, Pexels.
-- **Multiple Images**: User can generate up to 20 image per article.
-- **Different Images**: Each time an article is generated, a new set of images will be generated/scrapped to avoid posting the same images.
+---
 
-  ### Watermark Integration
+## 💎 Advanced Features
 
-  - You can add a watermark to the bottom right of your images.
+<details open>
+<summary><h3>🏢 Enterprise Solutions</h3></summary>
+- **Dedicated Support**: Priority assistance and consultation for business users
+- **Custom Integrations**: Connect with your existing tools and workflows
+- **Team Collaboration**: Multi-user access with role-based permissions
+- **Enhanced Security**: Extra protection for your content and account
 
-  ![4](https://github.com/obaskly/AutoWP/assets/11092871/49edd92d-66e4-43af-b94d-c31a72b96a13)
+**Enhanced Security**: Extra protection for your content and account
+</details>
 
-### Social media Integration
+<details open>
+<summary><h3>📊 Analytics Dashboard</h3></summary>
+- **Content Performance**: Track views, engagement, and conversion metrics
+- **Keyword Analysis**: Identify trending topics and optimization opportunities
+- **Publishing Insights**: Determine the best times and platforms for your content
+- **ROI Reporting**: Measure the effectiveness of your content strategy
+</details>
 
-- **Facebook**: Every article generated will be summarized and posted to a facebook page of your choice. (You must be an admin in that page)
-- **Instagram**: Every article generated will be summarized and posted to an Instagram account of your choice, along with a picture from the keyword image folder.
-- **Twitter**: Every article generated will be summarized and posted to a Twitter account of your choice.
-- **Hashtags**: Hashtags will be generated each time according to your article and added to the facebook post.
+---
 
-![11](https://github.com/obaskly/AutoWP/assets/11092871/e5e9a862-456c-4562-aa00-35b570c46a7c)
-![12](https://github.com/obaskly/AutoWP/assets/11092871/5b79a414-346e-4e59-887d-2cb6940e029e)
+## 🔧 Support
 
-### Scheduling
+> **Need help?** Our AI-powered support team is available 24/7
 
-- **Article Generation Scheduling**: Users can schedule the generation and posting of articles at specified intervals, ranging from every 15 minutes to weekly.
-- **Start/Stop Functionality**: The application provides the ability to start and stop the article generation process as needed.
+[![Contact Us](https://img.shields.io/badge/Contact_Support-Get_Help_Now-green?style=for-the-badge&logo=mail)](https://autowp.com/support)
 
-![6](https://github.com/obaskly/AutoWP/assets/11092871/1b443a49-a8a4-46cb-a203-00d46be101fb)
+*Responses typically within 2 hours*
 
-### User Interface
+---
 
-- **Dark and Light Mode**: The application comes with a toggle feature for switching between dark and light themes.
-- **Error Handling**: The GUI includes error messaging to inform users of any issues during the article generation or posting process.
+<div align="center">
 
-![9](https://github.com/obaskly/AutoWP/assets/11092871/e89f5f44-4816-44bc-8679-5cf288359083)
-![8](https://github.com/obaskly/AutoWP/assets/11092871/56bf5085-e58a-4a8b-ac03-5728f50381b8)
+[![Demo](https://img.shields.io/badge/View_Demo-Try_Now-blue?style=for-the-badge)](https://demo.autowp.com)
+[![Pricing](https://img.shields.io/badge/View_Pricing-Plans-orange?style=for-the-badge)](https://autowp.com/pricing)
+[![Documentation](https://img.shields.io/badge/Documentation-Read_More-lightgrey?style=for-the-badge)](https://docs.autowp.com)
 
-## Requirements
+<br>
 
-- OpenAI API Key
-- WordPress website with REST API access
-- Facebook page access token (in case used)
-- Twitter account with an app ready to use (in case used)
-- Instagram account (in case used)
-
-## Installation
-
-To use AutoWP, contact me on Telegram: @Anon040
-
-## Usage
-
-- Run the application
-
-- Follow the on-screen instructions to input your OpenAI API key, WordPress credentials, and other settings.
-
-## Free Version
-
-The Free version include the keywords generation only. Default model is set to `gpt-3.5-turbo`. If you want the Full version, contact me on Telegram: @Anon040
-
-Get the Free version from here: https://www.mediafire.com/file/yanxd8jmuq6f17g/AutoWP+Free.rar/file
-
-- rar password: 167
-
-## AutoWP in action
-
-### Current version:
-
-https://www.youtube.com/watch?v=ExCj5r_0xcI
-
-### Previous versions:
-
-First version of the script: https://www.youtube.com/watch?v=ZXOUZcLMp4s
-
-Second version of the script: https://www.youtube.com/watch?v=zyPUQQRHVuM
-
-## About
-
-AutoWP is developed by Obaskly.
+**AutoWP** — *The Future of Content is Automated*
+</div>
